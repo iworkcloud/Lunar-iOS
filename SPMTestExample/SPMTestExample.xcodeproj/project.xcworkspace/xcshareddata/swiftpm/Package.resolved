@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lunar-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/HouHangLei/Lunar-iOS.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8f3744ba5dbef75344368c80adb3a1e3cbaaaa87"
+      }
+    }
+  ],
+  "version" : 2
+}
